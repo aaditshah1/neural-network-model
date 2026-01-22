@@ -99,14 +99,6 @@ The project includes a custom neural network framework (`nn.py`) implementing:
 - ✅ Classification and regression
 - ✅ Model evaluation and visualization
 
-## 📈 Sample Outputs
-
-### MNIST Digit Grid
-![MNIST Grid](evidence_outputs/mnist_digit_grid.png)
-
-### Training Progress
-![Accuracy Curve](evidence_outputs/mnist_accuracy_curve.png)
-
 ## 📋 Requirements
 
 - Python 3.7+

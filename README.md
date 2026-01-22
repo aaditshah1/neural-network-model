@@ -1,4 +1,4 @@
-# Neural Network Models from Scratch
+# Neural Network Models 
 
 A comprehensive implementation of four different neural network models built from scratch using NumPy, demonstrating fundamental machine learning concepts from basic perceptrons to recurrent neural networks.
 
